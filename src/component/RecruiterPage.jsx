@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './RecruiterPage.css';
+import './recruiterPage.css';
 
 
 
